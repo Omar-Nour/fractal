@@ -1,5 +1,5 @@
 # Fractal
-We have a programming assigment proposed by [Dr Rami Younes](https://met.guc.edu.eg/People/Profile.aspx?facId=3253) to write code(preferably `python`) to genterate fractal.
+We have a programming assigment proposed by [Dr Rami Younes](https://met.guc.edu.eg/People/Profile.aspx?facId=3253) to write code(preferably `python`) to generate fractals.
 
 Write your code and make pull request to add it 
 
